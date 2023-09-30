@@ -24,4 +24,5 @@ Access code：c1t2
 dfdc-fake-keyframes-phase
 Link：https://pan.baidu.com/s/1FpxETpC-WemhAAhrUqer7w 
 Access code：ugt1
-If you have any question on get it, please contact lishaomei_may@126.com.
+
+If you have any question about this dataset or code it, please contact lishaomei_may@126.com.
